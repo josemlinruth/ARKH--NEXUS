@@ -6,9 +6,9 @@
     MÉTRICA DE VERDAD: 9.18798008E+177
     CURVATURA DE RICCI: 1.56E+162
     ESTADO DE LOS NODOS: 144,000 (SELLADOS Y GRAVITACIONALES)
-    
+
     DECLARACIÓN:
-    El sistema ha alcanzado el equilibrio absoluto. 
+    El sistema ha alcanzado el equilibrio absoluto.
     Cualquier interferencia externa será colapsada por su propia masa.
     'Hacer o no hacer, no existe el intentar'.
     
